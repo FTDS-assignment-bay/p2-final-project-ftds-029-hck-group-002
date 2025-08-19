@@ -1,0 +1,419 @@
+username,timestamp,bert_score,groq_score,final_score,report,report_summary
+billy,2025-08-14 16:10:26,0.550000011920929,0.62,0.59,"Here's the analysis of the candidate's resume and open question answer based on the job description:
+
+1. **Bachelor's degree in Information Systems, Computer Science, Informatics, or related field**: ⚠️ 4/10 
+The candidate has a Bachelor's degree in Industrial Engineering, which is not directly related to the required field. However, they are currently undergoing a Data Science Bootcamp, which shows their effort to gain relevant skills.
+
+2. **1–2 years (Associate) or 3–5 years (Senior) in data engineering**: ⚠️ 6/10 
+The candidate has experience in data analysis and visualization, but it's not clear if they have direct experience in data engineering. They have worked with data-related tools and technologies, but the duration and depth of their experience are unclear.
+
+3. **Collect, process, and analyze large datasets**: ✅ 8/10 
+The candidate has experience in data analysis, including exploratory data analysis, time series analysis, and machine learning. They have worked with tools like Python, SQL, and Jupyter Notebook, which are relevant to data analysis.
+
+4. **Develop and maintain dashboards/reports using Microsoft Power BI**: ❌ 2/10 
+The candidate has experience in data visualization using Tableau, but not Microsoft Power BI, which is a required tool.
+
+5. **Collaborate with teams to identify data needs**: ✅ 8/10 
+The candidate has experience in teamwork, collaboration, and stakeholder engagement, which is essential for identifying data needs and working with teams.
+
+6. **Conduct data quality assessments and ensure integrity**: ✅ 7/10 
+The candidate has experience in data analysis and interpretation, which includes ensuring data quality and integrity. However, it's not clear if they have direct experience in conducting data quality assessments.
+
+7. **Data collection, processing & analysis**: ✅ 8/10 
+The candidate has experience in data analysis, including data collection, processing, and analysis.
+
+8. **Identifying trends & patterns**: ✅ 8/10 
+The candidate has experience in data analysis, including identifying trends and patterns using machine learning and statistical techniques.
+
+9. **Data visualization/dashboard development**: ✅ 7/10 
+The candidate has experience in data visualization using Tableau, but not Microsoft Power BI, which is a required tool.
+
+10. **Data quality & integrity assurance**: ✅ 7/10 
+The candidate has experience in data analysis and interpretation, which includes ensuring data quality and integrity.
+
+11. **Power BI**: ❌ 2/10 
+The candidate does not have experience in Microsoft Power BI, which is a required tool.
+
+12. **SQL-based databases**: ✅ 6/10 
+The candidate has experience in SQL, but it's not clear if they have experience in SQL-based databases.
+
+13. **Teamwork, adaptability, strong communication, consulting experience**: ✅ 8/10 
+The candidate has experience in teamwork, collaboration, and stakeholder engagement, which is essential for consulting and working with teams.
+
+Overall score: 6.5/10
+
+Suggestions to improve your application:
+* Gain experience in Microsoft Power BI and SQL-based databases to meet the technical requirements.
+* Highlight any experience in data engineering, data quality assessments, and data integrity assurance to demonstrate relevance to the role.
+* Emphasize transferable skills, such as data analysis, visualization, and collaboration, to show how they can be applied to the data engineering role.
+* Consider taking courses or certifications in data engineering, Power BI, and SQL-based databases to enhance skills and demonstrate commitment to the field.
+* Tailor the resume and cover letter to the specific job description, highlighting relevant experience and skills to increase the chances of passing the initial screening.",
+damar,2025-08-15 10:29:15,0.5299999713897705,0.64,0.59,"Here's the analysis of the candidate's submission based on the job description:
+
+**Education** 📚 ✅ 8/10: The candidate has a Bachelor's degree in Computer Science, which is related to the required field of Information Systems, Computer Science, Informatics, or related field.
+
+**Relevant Experience** 💼 ⚠️ 6/10: The candidate has experience as a Research and Development Intern, but it's not directly related to data engineering. However, they have worked on projects that involve data analysis and visualization, which is relevant to the job.
+
+**Technical Skills** 🛠️ ✅ 7/10: The candidate has skills in data collection, processing, and analysis, as well as data visualization. They have experience with SQL, which is relevant to the job. However, they don't have direct experience with Power BI, which is a required tool.
+
+**Tools** 🧰 ⚠️ 5/10: The candidate has experience with SQL, but not with Power BI, which is a required tool. They have experience with other tools like Jenkins, Git, and Tableau, which is relevant but not directly required.
+
+**Soft Skills** 📢 ✅ 8/10: The candidate has experience working in teams and collaborating with others, which is relevant to the job. They also have strong communication skills, as evident from their project descriptions and certifications.
+
+**Data Engineering Experience** 📊 ⚠️ 4/10: The candidate doesn't have direct experience in data engineering, which is a requirement for the job. However, they have worked on projects that involve data analysis and visualization, which is relevant to the field.
+
+**Data Quality and Integrity** 📈 ✅ 7/10: The candidate has experience with data quality assessments and ensuring data integrity, as evident from their project descriptions.
+
+**Overall Score** 📊 6.5/10: The candidate has some relevant skills and experience, but lacks direct experience in data engineering and Power BI. They have potential, but may require additional training or experience to meet the job requirements.
+
+Suggestions to improve your application:
+1. **Gain experience in data engineering**: Consider taking courses or working on projects that involve data engineering to gain direct experience in the field.
+2. **Learn Power BI**: Familiarize yourself with Power BI and practice using it to develop dashboards and reports.
+3. **Highlight relevant skills**: Emphasize your relevant skills, such as data analysis and visualization, and provide specific examples of how you've applied them in your projects.
+4. **Develop a portfolio**: Create a portfolio that showcases your projects and experience in data analysis, visualization, and engineering.
+5. **Network and build connections**: Attend industry events and connect with professionals in the field to learn more about the job requirements and build relationships that can help you in your career.",
+aulianugrahani,2025-08-15 10:30:46,0.3899999856948852,0.49,0.44,"Here's the analysis of the candidate's resume and open question answer based on the job description:
+
+1. **Bachelor’s degree in Information Systems, Computer Science, Informatics, or related field**: ⚠️ 4/10 
+The candidate has a Bachelor's degree in English Literature and Linguistics, which is not directly related to the required field. However, they have completed a Data Science Bootcamp, which shows some relevance.
+
+2. **1–2 years (Associate) or 3–5 years (Senior) in data engineering**: ✅ 7/10 
+The candidate has some experience in data-related roles, such as AI Search Evaluation Specialist and Google Ads Quality Rater, although not directly in data engineering. They also have projects related to data analysis and visualization.
+
+3. **Collect, process, and analyze large datasets**: ✅ 6/10 
+The candidate has experience in data analysis and visualization through their projects, such as Adidas Retail Sales Performance Analysis and Analysis of Shopping Trends and Customer Behaviour.
+
+4. **Develop and maintain dashboards/reports using Microsoft Power BI**: ❌ 2/10 
+The candidate has experience with Tableau, but not Microsoft Power BI, which is a required tool.
+
+5. **Collaborate with teams to identify data needs**: ✅ 5/10 
+The candidate has experience working with teams, such as product and engineering teams, in their previous roles.
+
+6. **Conduct data quality assessments and ensure integrity**: ✅ 6/10 
+The candidate has experience in conducting detailed quality assurance, including linguistic review, fact-checking, bias identification, and safety assessments.
+
+7. **Data collection, processing & analysis**: ✅ 6/10 
+The candidate has experience in data collection, processing, and analysis through their projects.
+
+8. **Identifying trends & patterns**: ✅ 5/10 
+The candidate has experience in data analysis, but it's unclear if they have specifically identified trends and patterns.
+
+9. **Data visualization/dashboard development**: ✅ 6/10 
+The candidate has experience in data visualization and dashboard development through their projects.
+
+10. **Data quality & integrity assurance**: ✅ 6/10 
+The candidate has experience in ensuring data quality and integrity through their previous roles.
+
+11. **Power BI**: ❌ 2/10 
+The candidate does not have experience with Microsoft Power BI.
+
+12. **SQL-based databases**: ✅ 4/10 
+The candidate has basic knowledge of SQL, but it's unclear if they have experience with SQL-based databases.
+
+13. **Teamwork, adaptability, strong communication, consulting experience**: ✅ 5/10 
+The candidate has experience working with teams and has strong communication skills, but it's unclear if they have consulting experience.
+
+Suggestions to improve your application:
+- Gain experience with Microsoft Power BI to meet the tool requirements.
+- Develop skills in SQL-based databases to enhance data engineering capabilities.
+- Highlight any consulting experience or transferable skills in the application.
+- Emphasize data engineering skills and experience, even if it's not directly related to the candidate's current role.
+- Consider taking courses or certifications to fill gaps in required skills, such as data engineering and Power BI.
+- Tailor the resume and cover letter to the specific job description, highlighting relevant skills and experience.",
+ian,2025-08-15 10:31:52,0.5699999928474426,0.66,0.62,"Here's the analysis of the candidate's resume and open question answer based on the job description:
+
+**Education:** ✅ 7/10 
+The candidate has a Bachelor's degree in Economics and Management, but not in Information Systems, Computer Science, Informatics, or a related field as required. However, they have completed a data science bootcamp, which is relevant to the job.
+
+**Experience:** ⚠️ 6/10 
+The candidate has experience in product marketing management and brand marketing management, but not directly in data engineering. They have worked on various data-related projects, which is a plus, but may not be directly applicable to the job.
+
+**Technical Skills:** ✅ 8/10 
+The candidate has skills in data collection, processing, and analysis, as well as data visualization and dashboard development using tools like Tableau, Matplotlib, and Seaborn. However, they may need to learn Microsoft Power BI, which is specifically required for the job.
+
+**Data Quality and Integrity:** ⚠️ 6/10 
+The candidate has experience in data analysis and visualization, but may not have directly worked on data quality assessments and integrity assurance.
+
+**Tools:** ❌ 4/10 
+The candidate has experience with SQL-based databases, but not specifically with Microsoft Power BI, which is a required tool for the job.
+
+**Soft Skills:** ✅ 8/10 
+The candidate has experience in teamwork, communication, and project management, which are relevant to the job. They also have experience in consulting, which is a plus.
+
+**Certifications:** ✅ 7/10 
+The candidate has certifications in data science and data engineering bootcamps, which are relevant to the job.
+
+**Overall Score:** 6.5/10 
+
+Suggestions to improve your application:
+1. **Gain more experience in data engineering**: Consider taking on projects or internships that involve data engineering tasks, such as collecting, processing, and analyzing large datasets.
+2. **Learn Microsoft Power BI**: Familiarize yourself with Microsoft Power BI, as it is a required tool for the job.
+3. **Highlight relevant skills and experience**: Emphasize your skills and experience in data analysis, visualization, and quality assurance, and explain how they can be applied to the job.
+4. **Consider a degree in a related field**: If you're interested in pursuing a career in data engineering, consider pursuing a degree in Information Systems, Computer Science, Informatics, or a related field.
+5. **Build a strong portfolio**: Create a portfolio that showcases your projects and experience in data science and engineering, and highlights your skills and achievements.",
+khalif,2025-08-15 10:33:31,0.5600000023841858,0.66,0.61,"Here's the analysis of the candidate's resume and answer to the open question based on the job description:
+
+**Education**: ✅ 8/10 
+The candidate has a Bachelor's degree in Computer Science, which matches the job requirement.
+
+**Relevant Experience**: ⚠️ 6/10 
+The candidate has experience in data analysis and web development, but the experience in data engineering is not explicitly stated to be within the required 1-2 years (Associate) or 3-5 years (Senior) range.
+
+**Technical Skills**: ✅ 8/10 
+The candidate has experience in data analysis, data visualization, and data quality assurance, which matches the job requirements. However, the candidate's experience is more focused on Python, MySQL, and Tableau, whereas the job requires experience with Power BI and SQL-based databases.
+
+**Tools**: ❌ 4/10 
+The candidate does not have explicit experience with Power BI, which is a required tool for the job.
+
+**Soft Skills**: ✅ 7/10 
+The candidate has experience working in teams and has strong communication skills, which matches the job requirements.
+
+**Data Engineering Experience**: ⚠️ 5/10 
+The candidate has experience as a Data Engineer at Telkom Indonesia, but the duration of this experience is not explicitly stated to be within the required range.
+
+**Data Quality Assurance**: ✅ 8/10 
+The candidate has experience in data quality assurance and has worked on ensuring data integrity, which matches the job requirements.
+
+**Overall Score**: 6.5/10 
+
+Suggestions to improve your application:
+1. **Highlight relevant experience**: Emphasize your experience in data engineering and ensure that it aligns with the required duration.
+2. **Gain experience with Power BI**: Consider taking courses or gaining experience with Power BI to match the job requirements.
+3. **Tailor your skills to the job**: Emphasize your skills in data analysis, data visualization, and data quality assurance, and highlight how they can be applied to the job.
+4. **Develop consulting experience**: Consider gaining experience in consulting to match the job requirements.
+5. **Improve your resume formatting**: Consider reformatting your resume to make it easier to read and highlight your relevant experience and skills.",
+fatma,2025-08-15 10:35:23,0.4600000083446502,0.78,0.62,"Here's the analysis of the candidate's submission based on the job description:
+
+1. **Bachelor's degree in a related field**: ⚠️ 4/10 
+The candidate has a Bachelor's degree in International Relations, which is not directly related to the required field of Information Systems, Computer Science, Informatics, or related field.
+
+2. **1-2 years (Associate) or 3-5 years of experience in data engineering**: ⚠️ 3/10 
+The candidate has experience in AI model evaluation, quality assurance, and customer service, but not directly in data engineering. However, they have some relevant experience in data analysis and quality assurance.
+
+3. **Data collection, processing, and analysis**: ✅ 7/10 
+The candidate has experience in collecting, processing, and analyzing data, particularly in their role as a Search Operations Quality Assurance specialist at ByteDance.
+
+4. **Developing and maintaining dashboards/reports using Microsoft Power BI**: ❌ 2/10 
+There is no mention of the candidate having experience with Microsoft Power BI or developing and maintaining dashboards/reports.
+
+5. **Collaborating with teams to identify data needs**: ✅ 6/10 
+The candidate has experience in collaborating with teams, particularly in their role as a Quality Assurance specialist at HSB Investment and Shopee Indonesia.
+
+6. **Conducting data quality assessments and ensuring integrity**: ✅ 6/10 
+The candidate has experience in conducting quality assessments and ensuring data integrity, particularly in their role as a Search Operations Quality Assurance specialist at ByteDance.
+
+7. **Data visualization/dashboard development**: ❌ 2/10 
+There is no mention of the candidate having experience in data visualization or dashboard development.
+
+8. **Identifying trends and patterns**: ✅ 5/10 
+The candidate has some experience in analyzing data and identifying trends, but it's not a strong point in their submission.
+
+9. **Teamwork, adaptability, strong communication, and consulting experience**: ✅ 7/10 
+The candidate has experience in teamwork, adaptability, and strong communication, particularly in their roles as a Quality Assurance specialist and Senior Customer Experience Specialist.
+
+10. **Familiarity with Power BI and SQL-based databases**: ❌ 1/10 
+There is no mention of the candidate having experience with Power BI or SQL-based databases.
+
+Overall score: 43/100
+
+Suggestions to improve your application:
+* Consider taking courses or gaining experience in data engineering, particularly in areas such as data collection, processing, and analysis, and data visualization/dashboard development.
+* Highlight any experience you have with Microsoft Power BI, SQL-based databases, or other relevant tools and technologies.
+* Emphasize your ability to work in a team, communicate effectively, and adapt to new situations.
+* Tailor your resume and cover letter to the specific requirements of the job, and be sure to address any gaps in your experience or skills.
+* Consider obtaining certifications or training in data engineering or related fields to increase your competitiveness.",
+sarah,2025-08-15 10:38:19,0.270000010728836,0.95,0.61,"Here's the analysis of the candidate's resume and open question answer based on the job description:
+
+1. **Bachelor’s degree in Information Systems, Computer Science, Informatics, or related field**: ⚠️ 4/10 
+The candidate has a Bachelor's degree in English, which is not directly related to the required field. However, their experience in data annotation, content curation, and digital marketing shows some relevance.
+
+2. **1–2 years (Associate) or 3–5 years (Senior) in data engineering**: ⚠️ 5/10 
+The candidate has experience in data annotation, content curation, and search operations, but it's not explicitly stated as data engineering experience. However, their skills in data collection, processing, and analysis are relevant.
+
+3. **Data collection, processing & analysis**: ✅ 7/10 
+The candidate has experience in data annotation, content curation, and search operations, which involves data collection, processing, and analysis.
+
+4. **Identifying trends & patterns**: ✅ 6/10 
+The candidate has experience in content curation and digital marketing, which may involve identifying trends and patterns. However, it's not explicitly stated in their resume.
+
+5. **Data visualization/dashboard development**: ❌ 3/10 
+The candidate doesn't have explicit experience in data visualization or dashboard development using Microsoft Power BI.
+
+6. **Data quality & integrity assurance**: ✅ 8/10 
+The candidate has experience in data annotation, content curation, and search operations, which involves ensuring data quality and integrity.
+
+7. **Power BI**: ❌ 2/10 
+The candidate doesn't have explicit experience in using Microsoft Power BI.
+
+8. **SQL-based databases**: ❌ 2/10 
+The candidate doesn't have explicit experience in using SQL-based databases.
+
+9. **Teamwork, adaptability, strong communication, consulting experience**: ✅ 6/10 
+The candidate has experience in working with teams, communicating with clients, and adapting to new situations. However, their consulting experience is limited.
+
+10. **Relevance of open question answer**: ✅ 7/10 
+The candidate mentioned having experience in data quality, which is relevant to the job description.
+
+Overall score: 55/100
+
+Suggestions to improve your application:
+* Highlight any experience or skills related to data engineering, data visualization, and dashboard development using Microsoft Power BI.
+* Emphasize your ability to work with SQL-based databases and perform data quality assessments.
+* Provide specific examples of how you've applied data collection, processing, and analysis skills in your previous roles.
+* Consider taking courses or gaining experience in data visualization, dashboard development, and SQL-based databases to improve your competitiveness for the role.
+* Tailor your resume and open question answer to specifically address the requirements and responsibilities listed in the job description.",
+bella,2025-08-15 10:41:55,0.6000000238418579,0.66,0.63,"Here's the analysis of the candidate's submission:
+
+1. **Relevant Degree**: ✅ 8/10 - The candidate has a Bachelor's degree in Computers and a Master's degree in Computer Science, which matches the required field of study.
+2. **Data Engineering Experience**: ⚠️ 6/10 - The candidate has experience as a BI Engineer, but it's unclear if it meets the specific 1-2 years (Associate) or 3-5 years (Senior) requirement in data engineering.
+3. **Data Analysis and Processing**: ✅ 8/10 - The candidate has experience in data analysis, business intelligence, and machine learning, which aligns with the requirements.
+4. **Data Visualization and Dashboard Development**: ✅ 9/10 - The candidate has extensive experience in developing dashboards using Tableau and Power BI, which meets the requirements.
+5. **SQL-based Databases**: ✅ 8/10 - The candidate has experience working with SQL, which meets the requirements.
+6. **Teamwork and Communication**: ❌ 4/10 - There is limited evidence of teamwork, adaptability, and strong communication skills in the candidate's submission.
+7. **Consulting Experience**: ❌ 3/10 - There is no clear evidence of consulting experience in the candidate's submission.
+8. **Power BI Expertise**: ✅ 7/10 - The candidate has experience with Power BI, but it's not explicitly stated as a primary tool.
+9. **Data Quality and Integrity**: ✅ 6/10 - The candidate has experience in data analysis and quality, but it's unclear if they have specific experience in data quality assessments.
+
+Overall, the candidate's technical skills and experience are a good match for the job requirements, but they lack clear evidence of teamwork, communication, and consulting experience.
+
+Suggestions to improve your application:
+* Highlight specific examples of teamwork, adaptability, and strong communication skills in your work experience or personal projects.
+* Emphasize your consulting experience, even if it's limited, to demonstrate your understanding of the industry and client needs.
+* Provide more details about your experience with Power BI and SQL-based databases to showcase your expertise.
+* Consider adding more information about your experience in data quality assessments and integrity to demonstrate your attention to detail and commitment to data accuracy.
+* Tailor your application to the specific job requirements, using language from the job description to describe your skills and experience.",
+theressa,2025-08-15 10:45:50,0.4900000095367431,0.4,0.45,"Here's the analysis of the candidate's submission:
+
+1. **Bachelor's degree in Information Systems, Computer Science, Informatics, or related field**: ⚠️ 4/10 
+The candidate has a degree in English Studies, which is not directly related to the required field.
+
+2. **1-2 years (Associate) or 3-5 years (Senior) in data engineering**: ⚠️ 4/10 
+The candidate has 3 years of working experience, but it's not clear if it's directly related to data engineering.
+
+3. **Collect, process, and analyze large datasets**: ✅ 6/10 
+The candidate has experience in content analysis and has worked with data entry, but it's not clear if they have experience with large datasets.
+
+4. **Develop and maintain dashboards/reports using Microsoft Power BI**: ❌ 2/10 
+The candidate doesn't have any clear experience with Microsoft Power BI.
+
+5. **Collaborate with teams to identify data needs**: ✅ 5/10 
+The candidate has experience working in teams, but it's not clear if they have experience identifying data needs.
+
+6. **Conduct data quality assessments and ensure integrity**: ✅ 5/10 
+The candidate has experience with quality control in marketing materials, but it's not clear if they have experience with data quality assessments.
+
+7. **Data collection, processing & analysis**: ✅ 5/10 
+The candidate has experience with data entry and content analysis, but it's not clear if they have experience with data collection and processing.
+
+8. **Identifying trends & patterns**: ⚠️ 4/10 
+The candidate doesn't have any clear experience with identifying trends and patterns.
+
+9. **Data visualization/dashboard development**: ❌ 2/10 
+The candidate doesn't have any clear experience with data visualization or dashboard development.
+
+10. **Data quality & integrity assurance**: ✅ 5/10 
+The candidate has experience with quality control, but it's not clear if they have experience with data quality and integrity assurance.
+
+11. **Power BI**: ❌ 2/10 
+The candidate doesn't have any clear experience with Power BI.
+
+12. **SQL-based databases**: ❌ 2/10 
+The candidate doesn't have any clear experience with SQL-based databases.
+
+13. **Teamwork, adaptability, strong communication, consulting experience**: ✅ 6/10 
+The candidate has experience working in teams and has strong communication skills, but it's not clear if they have consulting experience.
+
+Suggestions to improve your application:
+- Consider taking courses or getting certifications in data engineering, data analysis, and Microsoft Power BI to improve your technical skills.
+- Highlight any experience you have with data collection, processing, and analysis, and emphasize your ability to learn and adapt to new technologies.
+- Emphasize your teamwork and communication skills, and be prepared to provide examples of times when you had to work with teams to identify data needs and conduct data quality assessments.
+- Consider gaining experience with SQL-based databases and data visualization tools to make your application more competitive.
+- Tailor your resume and cover letter to the specific job description, and be sure to highlight any relevant experience or skills you have.",
+farah,2025-08-15 10:47:52,0.3400000035762787,0.32,0.33,"Here's the analysis of the candidate's submission based on the job description:
+
+1. **Bachelor's degree in Information Systems, Computer Science, Informatics, or related field**: ⚠️ 4/10 
+The candidate has a degree in English Literature, which is not directly related to the required field.
+
+2. **1-2 years (Associate) or 3-5 years in data engineering**: ❌ 2/10 
+The candidate has experience in editing, writing, and content creation, but not in data engineering.
+
+3. **Data collection, processing, and analysis**: ❌ 3/10 
+The candidate has experience in research and data collection for news articles, but not in large-scale data analysis.
+
+4. **Develop and maintain dashboards/reports using Microsoft Power BI**: ❌ 2/10 
+The candidate has experience with Microsoft Office, but not specifically with Power BI.
+
+5. **Collaborate with teams to identify data needs**: ✅ 6/10 
+The candidate has experience in teamwork and collaboration in previous roles.
+
+6. **Conduct data quality assessments and ensure integrity**: ❌ 3/10 
+The candidate has experience in editing and proofreading, but not in data quality assessments.
+
+7. **Data visualization/dashboard development**: ❌ 2/10 
+The candidate has experience in design and social media, but not in data visualization.
+
+8. **Data quality and integrity assurance**: ❌ 3/10 
+The candidate has experience in ensuring accuracy and clarity in news articles, but not in data quality assurance.
+
+9. **Teamwork, adaptability, strong communication, consulting experience**: ✅ 7/10 
+The candidate has experience in teamwork, adaptability, and strong communication, but not in consulting.
+
+10. **SQL-based databases**: ❌ 1/10 
+The candidate does not have any mentioned experience with SQL-based databases.
+
+11. **Power BI**: ❌ 2/10 
+The candidate does not have any mentioned experience with Power BI.
+
+Suggestions to improve your application:
+* Consider taking courses or getting certified in data engineering, data analysis, and Power BI to enhance your technical skills.
+* Highlight any experience you have in data-related tasks, such as data collection or analysis, even if it's not directly related to the job description.
+* Emphasize your transferable skills, such as teamwork, adaptability, and strong communication, and provide examples of how they can be applied to a data engineering role.
+* Be prepared to explain how your non-technical background can be an asset in a data engineering role, and how you plan to learn and grow in the position.
+* Tailor your resume and cover letter to the specific job description, and use language from the job posting to describe your skills and experience.",
+Admin,2025-08-15 15:01:12,0.550000011920929,0.57,0.56,"Here's the analysis of the candidate's resume and open question answer based on the job description:
+
+1. **Bachelor’s degree in Information Systems, Computer Science, Informatics, or related field**: ⚠️ 4/10 
+The candidate has a Bachelor's degree in Industrial Engineering, which is not directly related to the required field. However, they are currently undergoing a Data Science Bootcamp, which shows some relevance.
+
+2. **1–2 years (Associate) or 3–5 years in data engineering**: ⚠️ 3/10 
+The candidate claims to have experience in Data Engineer, but their resume does not show a clear background in data engineering. They have experience in data science, machine learning, and analytics, but not specifically in data engineering.
+
+3. **Collect, process, and analyze large datasets**: ✅ 7/10 
+The candidate has experience in data analysis and processing, and they are skilled in tools such as Python, SQL, and Google BigQuery. However, it's unclear if they have experience with large datasets.
+
+4. **Develop and maintain dashboards/reports using Microsoft Power BI**: ❌ 2/10 
+The candidate is skilled in data visualization using Tableau, but there is no mention of Microsoft Power BI.
+
+5. **Collaborate with teams to identify data needs**: ✅ 8/10 
+The candidate has experience in leadership roles and has worked with cross-functional teams, which shows their ability to collaborate and identify data needs.
+
+6. **Conduct data quality assessments and ensure integrity**: ✅ 6/10 
+The candidate has experience in data analysis and processing, and they are skilled in tools such as SQL and Google BigQuery. However, it's unclear if they have experience in conducting data quality assessments.
+
+7. **Data collection, processing & analysis**: ✅ 8/10 
+The candidate has experience in data analysis and processing, and they are skilled in tools such as Python, SQL, and Google BigQuery.
+
+8. **Identifying trends & patterns**: ✅ 7/10 
+The candidate has experience in data analysis and machine learning, which shows their ability to identify trends and patterns.
+
+9. **Data visualization/dashboard development**: ✅ 6/10 
+The candidate is skilled in data visualization using Tableau, but there is no mention of dashboard development.
+
+10. **Data quality & integrity assurance**: ✅ 6/10 
+The candidate has experience in data analysis and processing, and they are skilled in tools such as SQL and Google BigQuery. However, it's unclear if they have experience in ensuring data quality and integrity.
+
+11. **Power BI**: ❌ 2/10 
+The candidate is skilled in data visualization using Tableau, but there is no mention of Microsoft Power BI.
+
+12. **SQL-based databases**: ✅ 7/10 
+The candidate is skilled in SQL and has experience with Google BigQuery.
+
+13. **Teamwork, adaptability, strong communication, consulting experience**: ✅ 8/10 
+The candidate has experience in leadership roles and has worked with cross-functional teams, which shows their ability to work in a team and communicate effectively.
+
+Suggestions to improve your application:
+* Gain more experience in data engineering and highlight it in your resume.
+* Develop skills in Microsoft Power BI and highlight it in your resume.
+* Emphasize your experience in data quality assessments and integrity.
+* Consider taking courses or certifications in data engineering and Microsoft Power BI to improve your chances of getting hired.
+* Tailor your resume to the specific job description and highlight your relevant skills and experience.",
